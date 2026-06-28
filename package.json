@@ -23,7 +23,7 @@
     "lint-staged": "^15.2.10",
     "prettier": "^3.8.3",
     "ts-node": "^10.9.2",
-    "turbo": "latest"
+    "turbo": "2.10.0"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
